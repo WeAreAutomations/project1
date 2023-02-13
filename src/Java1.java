@@ -14,6 +14,7 @@ public class Java1 {
         double dobl = 4.2;
         double div = age/legs;
         System.out.println(div + " Деление");
+        System.out.println("aot");
 
 
     }
