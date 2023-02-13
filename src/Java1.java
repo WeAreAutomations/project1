@@ -8,7 +8,7 @@ public class Java1 {
         legs = 7;
         tail = 1;
         System.out.println(name);
-        System.out.println(name + " "  + age + legs + tail);
+        System.out.println(name + " "  + age);
         //int sum = age + legs + tail;
         //System.out.println(sum);
         double dobl = 4.2;
